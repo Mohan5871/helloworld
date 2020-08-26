@@ -1,1 +1,2 @@
-# helloworld
+Name=input("what is your name"?)
+Print(name)
